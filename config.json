@@ -1,6 +1,28 @@
 {
     "products": [
         {
+            "id": "hangar",
+            "name": "Hangar",
+            "tagline": "Dev Control Panel",
+            "description": "A local-first infrastructure dashboard for indie hackers and solo devs. Monitor all your services, see live status, and launch anything instantly — no backend, no signup, runs entirely in your browser.",
+            "href": "https://hangar.triorockets.com/",
+            "status": "live",
+            "accent": "#f59e0b",
+            "icon": "pi pi-server",
+            "index": "01"
+        },
+        {
+            "id": "rocketlaunch",
+            "name": "RocketLaunch",
+            "tagline": "Launch OS for Indie Hackers",
+            "description": "The launch platform built for indie hackers who ship fast and build in public. Also the distribution backbone for every future TrioRockets product.",
+            "href": "https://launch.triorockets.com/",
+            "status": "live",
+            "accent": "#e8501a",
+            "icon": "pi pi-send",
+            "index": "02"
+        },
+        {
             "id": "momentumos",
             "name": "MomentumOS",
             "tagline": "Habit Operating System",
@@ -9,18 +31,29 @@
             "status": "live",
             "accent": "#7c3aed",
             "icon": "pi pi-chart-bar",
-            "index": "01"
+            "index": "03"
         },
         {
-            "id": "rocketlaunch",
-            "name": "RocketLaunch",
-            "tagline": "Launch OS for Indie Hackers",
-            "description": "The launch platform built for indie hackers who ship fast and build in public. Also the distribution backbone for every future TrioRockets product.",
+            "id": "creatortools",
+            "name": "CreatorTools",
+            "tagline": "Micro SaaS Tool Directory for Creators",
+            "description": "A curated set of micro tools for creators — OG image generators, tweet carousels, code screenshots, blog-to-thread converters, and more. Ship content faster with tools built for the modern creator stack.",
             "href": "#",
             "status": "soon",
-            "accent": "#e8501a",
-            "icon": "pi pi-send",
-            "index": "02"
+            "accent": "#ec4899",
+            "icon": "pi pi-palette",
+            "index": "04"
+        },
+        {
+            "id": "nexus",
+            "name": "Nexus",
+            "tagline": "Coming Soon",
+            "description": "Coming soon.",
+            "href": "#",
+            "status": "soon",
+            "accent": "#10b981",
+            "icon": "pi pi-sitemap",
+            "index": "05"
         },
         {
             "id": "schoolos",
@@ -31,18 +64,7 @@
             "status": "soon",
             "accent": "#0ea5e9",
             "icon": "pi pi-graduation-cap",
-            "index": "03"
-        },
-        {
-            "id": "coachops",
-            "name": "CoachOps",
-            "tagline": "Operating System for Coaches",
-            "description": "Client management, session tracking, and progress reporting — the complete operational backbone for coaching practices that want to scale without losing quality.",
-            "href": "#",
-            "status": "soon",
-            "accent": "#f59e0b",
-            "icon": "pi pi-star",
-            "index": "04"
+            "index": "06"
         }
     ]
 }
