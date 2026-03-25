@@ -1,1 +1,48 @@
-
+{
+    "products": [
+        {
+            "id": "momentumos",
+            "name": "MomentumOS",
+            "tagline": "Habit Operating System",
+            "description": "A focused system for building compounding habits — designed for professionals who treat personal growth as a practice, not a resolution.",
+            "href": "https://momentumos.triorockets.com/",
+            "status": "live",
+            "accent": "#7c3aed",
+            "icon": "pi pi-chart-bar",
+            "index": "01"
+        },
+        {
+            "id": "rocketlaunch",
+            "name": "RocketLaunch",
+            "tagline": "Launch OS for Indie Hackers",
+            "description": "The launch platform built for indie hackers who ship fast and build in public. Also the distribution backbone for every future TrioRockets product.",
+            "href": "#",
+            "status": "soon",
+            "accent": "#e8501a",
+            "icon": "pi pi-send",
+            "index": "02"
+        },
+        {
+            "id": "schoolos",
+            "name": "SchoolOS",
+            "tagline": "Operating System for Schools",
+            "description": "Multi-tenant SaaS built for institutions — attendance, communication, fee management, and administration unified under one operational layer.",
+            "href": "#",
+            "status": "soon",
+            "accent": "#0ea5e9",
+            "icon": "pi pi-graduation-cap",
+            "index": "03"
+        },
+        {
+            "id": "coachops",
+            "name": "CoachOps",
+            "tagline": "Operating System for Coaches",
+            "description": "Client management, session tracking, and progress reporting — the complete operational backbone for coaching practices that want to scale without losing quality.",
+            "href": "#",
+            "status": "soon",
+            "accent": "#f59e0b",
+            "icon": "pi pi-star",
+            "index": "04"
+        }
+    ]
+}
