@@ -28,7 +28,7 @@
             "tagline": "Habit Operating System",
             "description": "A focused system for building compounding habits — designed for professionals who treat personal growth as a practice, not a resolution.",
             "href": "https://momentumos.triorockets.com/",
-            "status": "live",
+            "status": "beta",
             "accent": "#7c3aed",
             "icon": "pi pi-chart-bar",
             "index": "03"
@@ -47,8 +47,8 @@
         {
             "id": "nexus",
             "name": "Nexus",
-            "tagline": "Coming Soon",
-            "description": "Coming soon.",
+            "tagline": "Intelligent Contact OS for Organizations",
+            "description": "A secure, organization-scoped contact registry for professionals who maintain large networks. Structured identities, event-based sourcing, geographic clustering, fuzzy deduplication, and field-level encryption — built for the contacts you actually collected at job fairs, conferences, and campus visits.",
             "href": "#",
             "status": "soon",
             "accent": "#10b981",
